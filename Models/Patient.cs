@@ -2,9 +2,7 @@
 {
     public enum Gender{
         Male,
-        Female
-
-        
+        Female 
     }
     public class Patient
     {

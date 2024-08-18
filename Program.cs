@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MVC_Final.Models;
+using MVC_Final.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,10 @@ builder.Services.AddDbContext<Context>(
 options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Cs"));
 });
+
+
+builder.Services.AddScoped<IDoctorAdmin, DoctorAdminRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,7 +28,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseStaticFiles();
 app.UseAuthorization();
 
 app.MapControllerRoute(

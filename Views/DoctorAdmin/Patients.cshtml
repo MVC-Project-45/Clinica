@@ -1,0 +1,80 @@
+﻿@model List<Patient>
+
+
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="~/css/style.css">
+
+<form asp-controller="DoctorAdmin" asp-action="SearchByName">
+    <div class="form-input">
+        <input type="search" name="name" placeholder="Search..." class="searchpatient">
+        <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+    </div>
+</form>
+
+
+@if (Model != null)
+{
+    <table class="table table-bordered active">
+        <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Gender</th>
+        <th>PhoneNumber</th>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model)
+            {
+                <tr>
+                    <td>@patient.Name</td>
+                    <td>@patient.age</td>
+                    <td>@patient.Gender</td>
+                    <td>@patient.PhoneNumber</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No patients found.</p>
+}
+<style>
+    /* Add shadow to the search input */
+
+    .searchpatient {
+        margin-bottom: 15px;
+        width: 91%;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: box-shadow 0.3s ease;
+    }
+
+        .searchpatient:hover, .searchpatient:focus {
+            box-shadow: 0 4px 12px rgba(0, 0, 255, 0.2); /* Blue shadow on hover/focus */
+            border-color: #007bff; /* Blue border on hover/focus */
+        }
+
+    /* Style for the search button */
+    .search-btn {  
+        background-color: #007bff; /* Blue background */
+        border: none;
+        border-radius: 4px;
+        color: white;
+        padding: 8px 12px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .search-btn:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+            box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3); /* Blue shadow on hover */
+        }
+
+        .search-btn i {
+            font-size: 16px;
+        }
+
+</style>
+

@@ -12,11 +12,8 @@ namespace MVC_Final.Models
         public string Img { get; set;}
         public string Address { get; set;}
         public float? TotalRate { get; set;}
-        
-
-       
-
-        public List<WorkingTime>? WorkingTime { get; set;}
+    
+        public List<WorkingTime> WorkingTime { get; set;}
         public List<Appointment>? Appointments { get; set;}
         [ForeignKey("Specialization")]
         public int? SpecializationId { get; set; }
