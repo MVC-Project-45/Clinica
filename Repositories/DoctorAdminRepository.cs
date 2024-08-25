@@ -17,32 +17,47 @@ namespace MVC_Final.Repositories
 			return context.Patients.ToList();
 		}
 
-		public int GetApointsCount()
+		public int GetApointsCount(int id)
 		{
-			return context.Appointments.Count();
-		}
-
-		// ==========need to know to implement ========= //
-		public double GetApointsTotalMoney()
+            var doctor = GetDoctorById(id);
+			return doctor.Appointments.Count();
+        }
+        public int GetPatientsCount(int id)
+        {
+            var doctor = GetDoctorById(id);
+			return doctor.Patients.Count();
+        }
+        // ==========need to know to implement ========= //
+        public double GetApointsTotalMoney(int id)
 		{
-			var totalApoints = context.Appointments.Sum(p => p.Price);
+            var doctor = GetDoctorById(id);
+            var totalApoints = doctor.Appointments.Sum(p => p.Price);
 			return totalApoints;
 		}
 		// =================================== //
-		public List<Patient> GetPatientByName(string name)
-		{
-			return context.Patients.Where(p => p.Name.Contains(name)).ToList();
-		}
+	public Doctor GetPatientByName(string name, int id)
+{
+    // Assuming GetDoctorById is a method that retrieves a Doctor by their ID.
+    var doctor = GetDoctorById(id);
+    
+    if (doctor != null)
+    {
+        // Filter the patients list by the provided name
+        doctor.Patients = doctor.Patients
+            .Where(p => p.Name.Contains(name))
+            .ToList();
+    }
+
+    return doctor;
+}
+
 
 		public DateTime GetPatientDate(string name)
 		{
 			throw new NotImplementedException();
 		}
 
-		public int GetPatientsCount()
-		{
-			return context.Patients.Count();
-		}
+	
 
 		public List<string> GetPatientsReviews(Doctor doctor)
 		{
@@ -84,6 +99,20 @@ namespace MVC_Final.Repositories
 			context.SaveChanges();
 		}
 
-        
+		public Doctor GetDoctorById(int id)
+		{
+			return context.Doctors
+				.Include(d =>d.Patients)
+				.Include(d => d.WorkingTime)
+				.Include(d=>d.Appointments)
+				.Include(d=>d.Specializations)
+				.Include(d=>d.Reviews)
+				.FirstOrDefault(d => d.Id==id);
+		}
+
+        public List<Patient> GetPatientByName(string name)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

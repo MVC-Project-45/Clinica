@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.IdentityModel.Tokens;
 using MVC_Final.Models;
 using MVC_Final.Repositories;
 using NuGet.Protocol.Core.Types;
@@ -14,29 +15,28 @@ namespace MVC_Final.Controllers
 		{
 			doctorAdmin = _doctorAdmin;
 		}
+        public IActionResult GetPatientByName(string name,int id)
+        {
 
-		[HttpGet]
-		public IActionResult GetPatients()
+            var patientName = doctorAdmin.GetPatientByName(name,id);
+
+            return View("Patients",patientName);
+        }
+        public IActionResult GetDoctor(int id,string name)
 		{
+			var doctor=doctorAdmin.GetDoctorById(id);
+            return View("Patients",doctor);
+		}		
 
-			var Patients = doctorAdmin.GetAllPatients();
+	
 
-			return View("Patients", Patients);
-		}
-
-		public IActionResult SearchByName(string name)
+		public IActionResult Counts(int id)
 		{
-			var patientName=doctorAdmin.GetPatientByName(name);
-			return View("Patients", patientName);
-		}
-
-		public IActionResult Counts()
-		{
-			var patientsCount = doctorAdmin.GetPatientsCount();
+			var patientsCount = doctorAdmin.GetPatientsCount(id);
 			ViewBag.PatientsCount = patientsCount;
-            var ApointsCount = doctorAdmin.GetApointsCount();
+            var ApointsCount = doctorAdmin.GetApointsCount(id);
             ViewBag.ApointsCount = ApointsCount;
-            var totalMoney = doctorAdmin.GetApointsTotalMoney();
+            var totalMoney = doctorAdmin.GetApointsTotalMoney(id);
             ViewBag.TotalMoney = totalMoney;
             return View("Patients");
 		}

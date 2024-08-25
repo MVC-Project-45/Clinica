@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model Doctor
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -28,7 +29,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="/DoctorAdmin/Counts">
+				<a href="/DoctorAdmin/Counts/@Model.Id">
 					<i class='bx bxs-shopping-bag-alt'></i>
 					<span class="text" >Get Statistics</span>
 				</a>

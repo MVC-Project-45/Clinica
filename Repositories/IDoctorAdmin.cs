@@ -4,11 +4,13 @@ namespace MVC_Final.Repositories
 {
     public interface IDoctorAdmin
 	{
-		List<Patient> GetPatientByName(string name);
-        int GetPatientsCount();
-		int GetApointsCount();
-		double GetApointsTotalMoney();
+        Doctor GetPatientByName(string name, int id);
+        int GetPatientsCount(int id);
+
+        int GetApointsCount(int id);
+		double GetApointsTotalMoney(int id);
 		List<Patient> GetAllPatients();
+        Doctor GetDoctorById(int id);
 		DateTime GetPatientDate(string name);
         void AddSchedule(WorkingTime schedule);
         void UpdateSchedule(WorkingTime schedule);

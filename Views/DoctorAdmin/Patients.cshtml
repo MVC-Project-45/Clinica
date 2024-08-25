@@ -1,10 +1,13 @@
-﻿@model List<Patient>
+﻿@model Doctor //List<Patient>
 @{
     Layout = "myLay";
 }
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
 <link rel="stylesheet" href="~/css/style.css">
+
+
+
 
 <div class="head-title">
     <div class="left">
@@ -15,14 +18,13 @@
             </li>
             <li><i class='bx bx-chevron-right'></i></li>
             <li>
-                <a class="active" href="#">Home</a>
+                <a class="active" href="Home">Home</a>
             </li>
         </ul>
     </div>
-    <a href="#" class="btn-download">
-        <i class='bx bxs-cloud-download'></i>
-        <span class="text">Download PDF</span>
-    </a>
+  @*   <a asp-action="doctor/profile" asp-all-route-Id="@Model.Id" >
+        <span class="text">@Model.Name</span>
+    </a> *@
 </div>
 
 <ul class="box-info">
@@ -50,9 +52,9 @@
     </li>
 </ul>
 
-<form asp-controller="DoctorAdmin" asp-action="SearchByName">
+    <form asp-controller="DoctorAdmin" asp-action="GetPatientByName"  >
     <div class="form-input">
-        <input type="search" name="name" placeholder="Search..." class="searchpatient">
+        <input type="search"  name="name" placeholder="Search..." class="searchpatient" >
         <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
     </div>
 </form>
@@ -67,7 +69,7 @@
             <th>PhoneNumber</th>
         </thead>
     <tbody>
-        @foreach (var patient in Model)
+        @foreach (var patient in Model.Patients)
         {
             <tr>
                 <td>@patient.Name</td>
