@@ -21,34 +21,25 @@ namespace MVC_Final.Controllers
 
 			var Patients = doctorAdmin.GetAllPatients();
 
-			return View("_DoctorDashboard", Patients);
+			return View("Patients", Patients);
 		}
 
 		public IActionResult SearchByName(string name)
 		{
 			var patientName=doctorAdmin.GetPatientByName(name);
-			return View("_DoctorDashboard", patientName);
+			return View("Patients", patientName);
 		}
 
-		public IActionResult PatientsCount()
+		public IActionResult Counts()
 		{
 			var patientsCount = doctorAdmin.GetPatientsCount();
 			ViewBag.PatientsCount = patientsCount;
-			return View("_DoctorDashboard");
+            var ApointsCount = doctorAdmin.GetApointsCount();
+            ViewBag.ApointsCount = ApointsCount;
+            var totalMoney = doctorAdmin.GetApointsTotalMoney();
+            ViewBag.TotalMoney = totalMoney;
+            return View("Patients");
 		}
-		public ActionResult GetTotalMoney()
-		{
-			var totalMoney= doctorAdmin.GetApointsTotalMoney();
-			ViewBag.TotalMoney = totalMoney;
-			return View("_DoctorDashboard");
-		}
-		public IActionResult ApointsCount()
-		{
-			var ApointsCount = doctorAdmin.GetApointsCount();
-			ViewBag.ApointsCount = ApointsCount;
-			return View("PatientsCount");
-		}
-
 
         public IActionResult Schedule()
         {
@@ -63,7 +54,7 @@ namespace MVC_Final.Controllers
 			{
 				doctorAdmin.AddSchedule(schedule);
 				doctorAdmin.Save();
-				return RedirectToAction("PatientsCount");
+				return RedirectToAction("Patients");
 			}
 			return View();
 		}
