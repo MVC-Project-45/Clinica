@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MVC_Final.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240825105219_doctPatientslist")]
-    partial class doctPatientslist
+    [Migration("20240826164536_init5")]
+    partial class init5
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -91,6 +91,12 @@ namespace MVC_Final.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("Price")
+                        .HasColumnType("int");
+
                     b.Property<string>("Qualifications")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -120,7 +126,7 @@ namespace MVC_Final.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("DoctorId")
+                    b.Property<int>("Age")
                         .HasColumnType("int");
 
                     b.Property<int>("Gender")
@@ -134,12 +140,7 @@ namespace MVC_Final.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("age")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("DoctorId");
 
                     b.ToTable("Patients");
                 });
@@ -209,6 +210,11 @@ namespace MVC_Final.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Cover")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -228,9 +234,6 @@ namespace MVC_Final.Migrations
 
                     b.Property<DateOnly>("Date")
                         .HasColumnType("date");
-
-                    b.Property<int>("DayOfWeek")
-                        .HasColumnType("int");
 
                     b.Property<int?>("DoctorId")
                         .HasColumnType("int");
@@ -275,13 +278,6 @@ namespace MVC_Final.Migrations
                     b.Navigation("Specializations");
                 });
 
-            modelBuilder.Entity("MVC_Final.Models.Patient", b =>
-                {
-                    b.HasOne("MVC_Final.Models.Doctor", null)
-                        .WithMany("Patients")
-                        .HasForeignKey("DoctorId");
-                });
-
             modelBuilder.Entity("MVC_Final.Models.PatientHistory", b =>
                 {
                     b.HasOne("MVC_Final.Models.Patient", "Patient")
@@ -318,8 +314,6 @@ namespace MVC_Final.Migrations
             modelBuilder.Entity("MVC_Final.Models.Doctor", b =>
                 {
                     b.Navigation("Appointments");
-
-                    b.Navigation("Patients");
 
                     b.Navigation("Reviews");
 

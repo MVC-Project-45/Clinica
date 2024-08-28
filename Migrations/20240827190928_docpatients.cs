@@ -5,11 +5,18 @@
 namespace MVC_Final.Migrations
 {
     /// <inheritdoc />
-    public partial class doctPatientslist : Migration
+    public partial class docpatients : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.AddColumn<int>(
+                name: "DayOfWeek",
+                table: "WorkingTime",
+                type: "int",
+                nullable: false,
+                defaultValue: 0);
+
             migrationBuilder.AddColumn<int>(
                 name: "DoctorId",
                 table: "Patients",
@@ -39,6 +46,10 @@ namespace MVC_Final.Migrations
             migrationBuilder.DropIndex(
                 name: "IX_Patients_DoctorId",
                 table: "Patients");
+
+            migrationBuilder.DropColumn(
+                name: "DayOfWeek",
+                table: "WorkingTime");
 
             migrationBuilder.DropColumn(
                 name: "DoctorId",

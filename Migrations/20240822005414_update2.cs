@@ -5,25 +5,18 @@
 namespace MVC_Final.Migrations
 {
     /// <inheritdoc />
-    public partial class worktimedays : Migration
+    public partial class update2 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AddColumn<int>(
-                name: "DayOfWeek",
-                table: "WorkingTime",
-                type: "int",
-                nullable: false,
-                defaultValue: 0);
+
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropColumn(
-                name: "DayOfWeek",
-                table: "WorkingTime");
+
         }
     }
 }
