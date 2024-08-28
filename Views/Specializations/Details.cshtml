@@ -1,0 +1,26 @@
+﻿@model MVC_Final.Models.Specialization
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Specialization</h4>
+    <hr />
+    <h1>Name: @Model.Name</h1>
+
+    @* <h1>Doctors: @Model.Doctors</h1> *@
+    <div>
+        @foreach (var doctor in Model.Doctors)
+        {
+            <div>Dr:  @doctor.Name </div>
+        }
+    </div>
+    <img width="200" height="200" href="~/images/@Model.Cover" />
+
+</div>
+<div>
+    <a href="/specializations/index" class="btn btn-light">Back to List</a>
+</div>

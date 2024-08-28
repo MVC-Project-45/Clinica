@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--==================== UNICONS ====================-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
+
+    <!--==================== SWIPER CSS ====================-->
+    <link rel="stylesheet" href="~/css/swiper-bundle.min.css" />
+    <!--==================== bootstrap icons ====================-->
+    <link href="~/lib/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
+
+    <!--==================== CSS ====================-->
+    <link rel="stylesheet" href="~/css/home-style.css" />
+    <link rel="stylesheet" href="~/css/sign-in-style.css" />
+    <link rel="stylesheet" href="~/css/register-style.css" />
+    <link href="~/lib/select2/css/select2.min.css" rel="stylesheet" />
+
+
+    <!--=============== REMIXICONS ===============-->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" />
+    <script src="https://kit.fontawesome.com/64d58efce2.js"
+            crossorigin="anonymous"></script>
+
+
+    <!--==================== website-logo-And-title ====================-->
+    <link rel="icon" type="image/x-icon" href="~/image/projectLOGO.svg" />
+    <title>ITI Hospital</title>
+</head>
+<body>
+    <!--==================== HEADER ====================-->
+    <header class="header" id="header" style="background-color:#E5F3F3">
+        <nav class="nav container ">
+
+            <span><a href="#" class="nav__logo"><img src="/image/log.svg" class="nav__logo" width="80px" /></span></a>
+            <span><a href="#" class="nav__logo  text-nowrap ">ITI Hospital</a></span>
+
+
+
+
+            <div class="nav__menu me-auto" id="nav-menu">
+                <ul class="nav__list grid">
+                    <li class="nav__item">
+                        <a href="@Url.Action("Index", "Home")" class="nav__link active-link">
+                         Home
+
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#about" class="nav__link">
+                          About
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#services" class="nav__link">
+                           Services
+                        </a>
+                    </li>
+
+                    <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+                    <li class="nav__item">
+                        <a href="@Url.Action("Index", "Specializations")" class="nav__link">
+                            Specializations 
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="@Url.Action("Index", "Admin")" class="nav__link">
+                       Admin
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="@Url.Action("Index", "Doctor")" class="nav__link">
+                          Doctors
+                        </a>
+                    </li>
+
+                    @if (User.IsInRole("Admin") == true)
+                    {
+
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Role" asp-action="AddRole"> Add Role</a>
+                        </li>
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="RegisterAdmin">Register Admin</a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="LoginAdmin">Log in Admin</a>
+                        </li>
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Patient" asp-action="index"> Patient </a>
+                        </li>
+
+                    }
+                    else if (User.IsInRole("docutor") == true)
+                    {
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="RegisterAdmin">Register Admin</a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="LoginAdmin">Log in Admin</a>
+                        </li>
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Patient" asp-action="index"> Patient </a>
+                        </li>
+                    }
+
+
+
+                    else
+                    {
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="Register">Register</a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                        </li>
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="Account" asp-action="SignOut">Logout</a>
+                        </li>
+
+
+                        <li class="nav__item">
+                            <a class="nav__link" asp-area="" asp-controller="" asp-action="">
+                                Welcome @User.Identity.Name
+                            </a>
+                        </li>
+                    }
+
+  
+                    <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+                </ul>
+                <i class="uil uil-times nav__close" id="nav-close"></i>
+            </div>
+
+        </nav>
+    </header>
+
+    <!--==================== Main ====================-->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!--==================== FOOTER ====================-->
+    <footer class="footer" style="bottom:0;">
+        <div class="footer__bg">
+            <div class="footer__container container grid">
+                <div>
+                    <h1 class="footer__title">ITI Hospital</h1>
+                    <span class="footer__subtitle">
+                        ITI Hospital provides progressive
+                        and affordable healthcare, accessible online and online for everyone
+                    </span>
+                </div>
+
+                <ul class="footer__links">
+                    <li>
+                        <a href="#home" class="footer__link">Home</a>
+                    </li>
+                    <li>
+                        <a href="#services" class="footer__link">Services</a>
+                    </li>
+                    <li>
+                        <a href="#about" class="footer__link">About</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Specializations", "controllerNAme")" class="footer__link"> Specializations</a>
+                    </li>
+                </ul>
+                <div class="footer__socials">
+                    <a href="https://github.com/MVC-Project-45/MVC_Final" target="_blank" class="footer__social">
+                        <i class="uil uil-facebook-f"></i>
+                    </a>
+                    <a href="https://github.com/MVC-Project-45/MVC_Final" target="_blank" class="footer__social">
+                        <i class="uil uil-instagram"></i>
+                    </a>
+                    <a href="https://github.com/MVC-Project-45/MVC_Final" target="_blank" class="footer__social">
+                        <i class="ri-twitter-x-fill"></i>
+                    </a>
+                </div>
+            </div>
+            <p class="footer__copy">&#169; ITI Hospital 2024. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!--==================== SCROLL TOP ====================-->
+    <a href="#" class="scrollup" id="scroll-up">
+        <i class="uil uil-arrow-up scrollup__icon"></i>
+    </a>
+
+    <!--==================== SWIPER JS ====================-->
+    <script src="~/js/swiper-bundle.min.js"></script>
+
+    <!--==================== MAIN JS ====================-->
+    <script src="~/js/home-main.js"></script>
+    <script src="~/lib/select2/js/select2.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
