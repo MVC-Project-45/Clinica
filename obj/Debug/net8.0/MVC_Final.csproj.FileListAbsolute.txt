@@ -1,0 +1,1290 @@
+G:\MVC\mvc_project\bin\Debug\net8.0\appsettings.Development.json
+G:\MVC\mvc_project\bin\Debug\net8.0\appsettings.json
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.staticwebassets.runtime.json
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.exe
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.deps.json
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.runtimeconfig.json
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\MVC_Final.pdb
+G:\MVC\mvc_project\bin\Debug\net8.0\Azure.Core.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Azure.Identity.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Humanizer.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.CodeDom.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Memory.Data.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.AssemblyReference.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.GeneratedMSBuildEditorConfig.editorconfig
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfoInputs.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfo.cs
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.CoreCompileInputs.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.MvcApplicationPartsAssemblyInfo.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cs
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.sourcelink.json
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets.build.json
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets.development.json
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC_Final.props
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Final.props
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC_Final.props
+G:\MVC\mvc_project\obj\Debug\net8.0\staticwebassets.pack.json
+G:\MVC\mvc_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\MVC\mvc_project\obj\Debug\net8.0\scopedcss\bundle\MVC_Final.styles.css
+G:\MVC\mvc_project\obj\Debug\net8.0\scopedcss\projectbundle\MVC_Final.bundle.scp.css
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.Up2Date
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.dll
+G:\MVC\mvc_project\obj\Debug\net8.0\refint\MVC_Final.dll
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.pdb
+G:\MVC\mvc_project\obj\Debug\net8.0\MVC_Final.genruntimeconfig.cache
+G:\MVC\mvc_project\obj\Debug\net8.0\ref\MVC_Final.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Build.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Common.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\MVC\mvc_project\bin\Debug\net8.0\libman.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\appsettings.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\libman.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.staticwebassets.runtime.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.exe
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.deps.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.runtimeconfig.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\MVC_Final.pdb
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.AssemblyReference.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfoInputs.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfo.cs
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cs
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.sourcelink.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC_Final.props
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Final.props
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC_Final.props
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\scopedcss\bundle\MVC_Final.styles.css
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\scopedcss\projectbundle\MVC_Final.bundle.scp.css
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.Up2Date
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\refint\MVC_Final.dll
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.pdb
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\MVC_Final.genruntimeconfig.cache
+C:\Users\Mohamed Tarek\Downloads\mvc_project\mvc_project\obj\Debug\net8.0\ref\MVC_Final.dll
+F:\mvc_project\bin\Debug\net8.0\appsettings.Development.json
+F:\mvc_project\bin\Debug\net8.0\appsettings.json
+F:\mvc_project\bin\Debug\net8.0\libman.json
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.staticwebassets.runtime.json
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.exe
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.deps.json
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.runtimeconfig.json
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.dll
+F:\mvc_project\bin\Debug\net8.0\MVC_Final.pdb
+F:\mvc_project\bin\Debug\net8.0\Azure.Core.dll
+F:\mvc_project\bin\Debug\net8.0\Azure.Identity.dll
+F:\mvc_project\bin\Debug\net8.0\Humanizer.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Build.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\mvc_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\mvc_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\mvc_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Common.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\mvc_project\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\mvc_project\bin\Debug\net8.0\System.CodeDom.dll
+F:\mvc_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\mvc_project\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\mvc_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\mvc_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\mvc_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\mvc_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\mvc_project\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\mvc_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\mvc_project\bin\Debug\net8.0\System.Memory.Data.dll
+F:\mvc_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\mvc_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\mvc_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\mvc_project\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\mvc_project\bin\Debug\net8.0\System.Text.Json.dll
+F:\mvc_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\mvc_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.AssemblyReference.cache
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.GeneratedMSBuildEditorConfig.editorconfig
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfoInputs.cache
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfo.cs
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.CoreCompileInputs.cache
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.MvcApplicationPartsAssemblyInfo.cache
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cache
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cs
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.sourcelink.json
+F:\mvc_project\obj\Debug\net8.0\staticwebassets.build.json
+F:\mvc_project\obj\Debug\net8.0\staticwebassets.development.json
+F:\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props
+F:\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC_Final.props
+F:\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Final.props
+F:\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC_Final.props
+F:\mvc_project\obj\Debug\net8.0\staticwebassets.pack.json
+F:\mvc_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\mvc_project\obj\Debug\net8.0\scopedcss\bundle\MVC_Final.styles.css
+F:\mvc_project\obj\Debug\net8.0\scopedcss\projectbundle\MVC_Final.bundle.scp.css
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.Up2Date
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.dll
+F:\mvc_project\obj\Debug\net8.0\refint\MVC_Final.dll
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.pdb
+F:\mvc_project\obj\Debug\net8.0\MVC_Final.genruntimeconfig.cache
+F:\mvc_project\obj\Debug\net8.0\ref\MVC_Final.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\appsettings.Development.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\appsettings.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\libman.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.staticwebassets.runtime.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.exe
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.deps.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.runtimeconfig.json
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\MVC_Final.pdb
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Azure.Core.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Azure.Identity.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Humanizer.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Build.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Common.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.CodeDom.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Memory.Data.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\MVC\New folder (3)\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.AssemblyReference.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.GeneratedMSBuildEditorConfig.editorconfig
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfoInputs.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfo.cs
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.CoreCompileInputs.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.MvcApplicationPartsAssemblyInfo.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cs
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.sourcelink.json
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets.build.json
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets.development.json
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC_Final.props
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Final.props
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC_Final.props
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\staticwebassets.pack.json
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\scopedcss\bundle\MVC_Final.styles.css
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\scopedcss\projectbundle\MVC_Final.bundle.scp.css
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.Up2Date
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.dll
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\refint\MVC_Final.dll
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.pdb
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\MVC_Final.genruntimeconfig.cache
+G:\MVC\New folder (3)\mvc_project\obj\Debug\net8.0\ref\MVC_Final.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\appsettings.Development.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\libman.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\appsettings.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.staticwebassets.runtime.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.exe
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.deps.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.runtimeconfig.json
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\MVC_Final.pdb
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Azure.Core.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Azure.Identity.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Humanizer.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Build.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Common.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.CodeDom.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Memory.Data.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Text.Json.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\.Net Projects\mvc_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.AssemblyReference.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfoInputs.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.AssemblyInfo.cs
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.CoreCompileInputs.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.MvcApplicationPartsAssemblyInfo.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.RazorAssemblyInfo.cs
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.sourcelink.json
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets.build.json
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets.development.json
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC_Final.props
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Final.props
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC_Final.props
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\staticwebassets.pack.json
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\scopedcss\bundle\MVC_Final.styles.css
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\scopedcss\projectbundle\MVC_Final.bundle.scp.css
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.csproj.Up2Date
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.dll
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\refint\MVC_Final.dll
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.pdb
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\MVC_Final.genruntimeconfig.cache
+G:\.Net Projects\mvc_project\obj\Debug\net8.0\ref\MVC_Final.dll
