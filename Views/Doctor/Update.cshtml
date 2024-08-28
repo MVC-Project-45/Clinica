@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@using MVC_Final.Settings
 @model MVC_Final.ViewModels.EditDoctorViewModel
 
@@ -67,4 +68,75 @@
         <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
         <script src="~/js/game-form.js" asp-append-version="true"></script>
         <script src="~/lib/jquery/dist/jquery.min.js"></script>
+=======
+﻿@using MVC_Final.Settings
+@model MVC_Final.ViewModels.EditDoctorViewModel
+
+<h1 class="text-center">تعديل بيانات الطبيب</h1>
+@* <form action="/doctor/save" method="post" enctype="multipart/form-data"> *@
+<form asp-controller="Doctor" method="post" enctype="multipart/form-data">
+    <div class="row">
+
+        <div class="form-group">
+            <label dir="rtl" asp-for="Name" class="form-label mt-4"></label>
+            <input dir="rtl" type="text" class="form-control" asp-for="Name" placeholder="ادخل اسم الطبيب">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber" class="form-label mt-4"></label>
+            <input dir="rtl" type="text" class="form-control" asp-for="PhoneNumber" placeholder="رقم التليفون">
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price" class="form-label mt-4"></label>
+            <input dir="rtl" type="number" class="form-control" asp-for="Price" placeholder="سعر الكشف">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TotalRate" class="form-label mt-4"></label>
+            <input dir="rtl" type="number" class="form-control" asp-for="TotalRate" placeholder="التقييم">
+            <span asp-validation-for="TotalRate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label dir="rtl" asp-for="Experince" class="form-label mt-4"></label>
+            <textarea asp-for="Experince" class="form-control" placeholder="الخبرة"></textarea>
+            <span asp-validation-for="Experince" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Qualifications" class="form-label mt-4"></label>
+            <textarea asp-for="Qualifications" class="form-control" placeholder="Qualifications"></textarea>
+            <span asp-validation-for="Qualifications" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Address" class="form-label mt-4"></label>
+            <textarea asp-for="Address" class="form-control" placeholder="Address"></textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="SpecializationId" class="form-label mt-4"></label>
+            <select class="form-select" asp-for="SpecializationId" asp-items="Model.SpecializationsList">
+                <option></option>
+            </select>
+            <span asp-validation-for="SpecializationId" class="text-danger"></span><br />
+        </div><br />
+        @*  <div class="form-group">
+        <label asp-for="Cover" class="form-label mt-4"></label>
+        <input type="file" class="form-control" asp-for="Cover" />
+        <span asp-validation-for="Cover" class="text-danger d-block"></span>
+        </div> *@
+        <div class="mb-3">
+            <label for="Image" class="form-label">Image</label>
+            <input type="file" name="image" class="form-control" id="image">
+        </div>
+        <button type="submit" class="btn btn-primary w-100 wy-2">تعديل</button>
+
+    </div>
+</form>
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+        <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
+        <script src="~/js/game-form.js" asp-append-version="true"></script>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+>>>>>>> b905b14e014d082ee4d3e4a1db7d5c994c74a9c2
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@model MVC_Final.ViewModels.DoctorAdminViewModel
 @{
     Layout = "myLay";
@@ -181,3 +182,249 @@ transition: background-color 0.3s ease, box-shadow 0.3s ease;
 </style>
 
 <script src="~/js/script.js"></script>
+=======
+<<<<<<< HEAD
+﻿@model MVC_Final.ViewModels.DoctorAdminViewModel
+=======
+﻿@model Doctor //List<Patient>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+@{
+    Layout = "myLay";
+}
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css">
+
+
+<<<<<<< HEAD
+<!-- SIDEBAR -->
+<section id="sidebar">
+    <a href="#" class="brand">
+        <i class='bx bxs-smile'></i>
+        <span class="text">AdminHub</span>
+    </a>
+    <ul class="side-menu top">
+        <li class="active">
+            <a href="#">
+                <i class='bx bxs-dashboard'></i>
+                <span class="text">Dashboard</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/Counts?id=@Model.Doctor.Id">
+            <i class='bx bxs-shopping-bag-alt'></i>
+                <span class="text">Get Statistics</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/Schedule">
+                <i class='bx bxs-doughnut-chart'></i>
+                <span class="text">Create Schedule</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/GetSchedule">
+                <i class='bx bxs-message-dots'></i>
+                <span class="text">Get Schedules</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-group'></i>
+                <span class="text">Team</span>
+            </a>
+        </li>
+    </ul>
+    <ul class="side-menu">
+        <li>
+            <a href="#">
+                <i class='bx bxs-cog'></i>
+                <span class="text">Settings</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="logout">
+                <i class='bx bxs-log-out-circle'></i>
+                <span class="text">Logout</span>
+            </a>
+        </li>
+    </ul>
+</section>
+<!-- SIDEBAR -->
+=======
+
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+
+<div class="head-title">
+    <div class="left">
+        <h1>Dashboard</h1>
+        <ul class="breadcrumb">
+            <li>
+                <a href="#">Dashboard</a>
+            </li>
+            <li><i class='bx bx-chevron-right'></i></li>
+            <li>
+                <a class="active" href="Home">Home</a>
+            </li>
+        </ul>
+    </div>
+<<<<<<< HEAD
+    @*   <a asp-action="doctor/profile" asp-all-route-Id="@Model.Id" >
+    <span class="text">@Model.Name</span>
+=======
+  @*   <a asp-action="doctor/profile" asp-all-route-Id="@Model.Id" >
+        <span class="text">@Model.Name</span>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+    </a> *@
+</div>
+
+<ul class="box-info">
+    <li>
+        <i class='bx bxs-group'></i>
+        <span class="text">
+<<<<<<< HEAD
+            <h3>@Model.PatientsCount</h3>
+            <p>No of Patients</p>
+=======
+            <h3>@(ViewBag.PatientsCount ?? 0)</h3>
+            <p>No of Patients </p>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-calendar-check'></i>
+<<<<<<< HEAD
+        <span class="text">
+            <h3>@Model.AppointmentsCount</h3>
+=======
+
+        <span class="text">
+            <h3>@(ViewBag.ApointsCount ?? 0)</h3>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+            <p>No of Appointments</p>
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-dollar-circle'></i>
+        <span class="text">
+<<<<<<< HEAD
+            <h3>$@Model.TotalMoney</h3>
+=======
+            <h3>$@(ViewBag.TotalMoney ?? 0.0)</h3>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+            <p>Total Money</p>
+        </span>
+    </li>
+</ul>
+
+<<<<<<< HEAD
+<form asp-controller="DoctorAdmin" asp-action="GetPatientByName" method="get">
+    <div class="form-input">
+        <input type="search" name="name" placeholder="Search..." class="searchpatient">
+        <input type="hidden" name="id" value="@Model.Doctor?.Id" />
+=======
+    <form asp-controller="DoctorAdmin" asp-action="GetPatientByName"  >
+    <div class="form-input">
+        <input type="search"  name="name" placeholder="Search..." class="searchpatient" >
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+        <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+    </div>
+</form>
+
+<<<<<<< HEAD
+@if (Model.Patients != null && Model.Patients.Any())
+{
+    <table class="table table-bordered active">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>PhoneNumber</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model.Patients)
+            {
+                <tr>
+                    <td>@patient.Name</td>
+                    <td>@patient.Age</td>
+                    <td>@patient.Gender</td>
+                    <td>@patient.PhoneNumber</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+=======
+@if (Model != null)
+{
+ <table class="table table-bordered active">
+        <thead>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>PhoneNumber</th>
+        </thead>
+    <tbody>
+        @foreach (var patient in Model.Patients)
+        {
+            <tr>
+                <td>@patient.Name</td>
+                <td>@patient.age</td>
+                <td>@patient.Gender</td>
+                <td>@patient.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+}
+else
+{
+    <p>No patients found.</p>
+}
+
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> d576ac289627ee7cbeba60cf9920020457739937
+<style>
+.searchpatient {
+    margin-bottom: 15px;
+    width: 91%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.searchpatient:hover, .searchpatient:focus {
+    box-shadow: 0 4px 12px rgba(0, 0, 255, 0.2); 
+    border-color: #007bff; 
+}
+
+.search-btn {  
+background-color: #007bff; 
+border: none;
+border-radius: 4px;
+color: white;
+padding: 8px 12px;
+cursor: pointer;
+transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-btn:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3);
+}
+
+.search-btn i {
+    font-size: 16px;
+}
+
+</style>
+
+<script src="~/js/script.js"></script>
+>>>>>>> b905b14e014d082ee4d3e4a1db7d5c994c74a9c2

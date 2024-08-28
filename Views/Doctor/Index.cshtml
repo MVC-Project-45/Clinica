@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@model List<Doctor>
 @{
     int count = 1;
@@ -77,3 +78,84 @@
 
 
 
+=======
+﻿@model List<Doctor>
+@{
+    int count = 1;
+    ViewData["Title"] = "Doctor";
+}
+<div style="background-image: url('/image/specializations/search.jpg');">
+    <div dir="rtl" style="max-width: 80rem; padding-left: 1rem;
+         padding-right: 1rem; width: 100%; display:flex; justify-content: flex-start;">
+
+        <div style="background-color: rgb(243 244 246 ); display:flex; gap: .5rem;
+               border-radius: .25rem; align-items: center; justify-content:center;
+                padding: .25rem; padding-left: .5rem; padding-right: .5rem; font-size: .875rem;
+             line-height: 1.25rem; border-width: 1px; margin:15px;"
+             dir="rtl">
+            <amp-img alt="Call Icon" width="22" height="22" src="/image/specializations/call-icon.svg"
+                     style="width: 22px; height: 22px; --loader-delay-offset: 45ms !important;">
+                <img decoding="async" alt="Call Icon" src="/image/specializations/call-icon.svg"
+                     class="i-amphtml-fill-content i-amphtml-replaced-content">
+            </amp-img>
+            <span>اتصل للمساعدة</span>
+            <a href="tel:+111 2 333 4444" dir="ltr" class="underline font-bold">+111 2 333 4444</a>
+        </div>
+
+
+    </div>
+
+
+    <div dir="rtl" style="margin:10px; padding:10px;">
+        <form action="/Doctor/SearchByName2">
+            <div class="mb-3" dir="rtl">
+                <label for="search" class="form-label" dir="rtl">ابحث</label>
+                <input type="text" name="search" class="form-control" id="search" placeholder="ابحث عن الطبيب ...." dir="rtl">
+            </div>
+            <button type="submit" class="btn btn-primary w-100 wy-2">بحث</button>
+        </form>
+    </div>
+</div>
+
+<div dir="rtl" style="
+    /* max-width: 80rem; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(243 244 246 );
+    gap: .5rem;
+    border-radius: .25rem;
+    align-items: center;
+    justify-content:center;
+    padding: .25rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    /* font-size: .875rem; */
+    /* line-height: 1.25rem; */
+    border-width: 1px;
+    margin:15px;
+    /* width: max-content; */
+    ">
+    جميع الاطباء
+</div>
+
+<div class="" style="background-color:rgb(243 244 246 );  margin-right: 15px;
+    margin-left: 15px; ">
+    @foreach (var item in Model)
+    {
+        <div class=" " style="display:flex; align-items:center; padding:10px; " dir="rtl">
+            <a asp-controller="Doctor" asp-action="Details" asp-route-id="@item.Id" style="font-size: .875rem;
+                line-height: 1.25rem; display:flex; align-items:center; ">
+                <img src="/image/@item.Img" style=" width: 24px; height: 24px;" />
+                <div style="padding-inline-start: .5rem; font-weight: 700;" dir="rtl">@item.Name</div>
+
+            </a>
+        </div>
+
+
+    }
+</div>
+
+
+
+
+>>>>>>> b905b14e014d082ee4d3e4a1db7d5c994c74a9c2
