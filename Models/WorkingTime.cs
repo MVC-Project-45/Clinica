@@ -13,6 +13,7 @@ namespace MVC_Final.Models
         [ForeignKey("Doctor")]
         public int? DoctorId { get; set; }
         public Doctor? Doctor { get; set; }
+        public DayOfWeek DayOfWeek { get; set; }
 
     }
 }

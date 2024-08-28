@@ -1,0 +1,54 @@
+﻿ <style>
+
+ .check{
+        color: #ffc107;
+    }
+
+</style>
+
+
+<div id="star" class="line " rate="@Math.Round(Model)">
+   
+    @if (Model > 0.5)
+    {
+        <span class="fa fa-star check"></span>
+    }
+    else
+    {
+        <span class="fa fa-star"></span>
+
+    }
+    @if (Model > 1.5)
+    {
+        <span class="fa fa-star check"></span>
+    }
+    else
+    {
+        <span class="fa fa-star"></span>
+
+    } @if (Model > 2.5)
+    {
+        <span class="fa fa-star check"></span>
+    }
+    else
+    {
+        <span class="fa fa-star"></span>
+
+    } @if (Model > 3.5)
+    {
+        <span class="fa fa-star check"></span>
+    }
+    else
+    {
+        <span class="fa fa-star"></span>
+
+    } @if (Model > 4.5)
+    {
+        <span class="fa fa-star check"></span>
+    }
+    else
+    {
+        <span class="fa fa-star"></span>
+
+    }
+</div>

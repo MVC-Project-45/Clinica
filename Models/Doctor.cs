@@ -1,9 +1,16 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics.Contracts;
+using GameZone.Attributes;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using MVC_Final.Attributes;
+using MVC_Final.Models;
+using MVC_Final.Settings;
+using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Identity;
 
 namespace MVC_Final.Models
 {
-    public class Doctor
+    public class Doctor 
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -12,9 +19,10 @@ namespace MVC_Final.Models
         public string Img { get; set;}
         public string Address { get; set;}
         public float? TotalRate { get; set;}
-        
 
-       
+        public int? Price { get; set; }
+        public string? PhoneNumber { get; set; }
+        public List<Patient>? Patients { get; set; }
 
         public List<WorkingTime>? WorkingTime { get; set;}
         public List<Appointment>? Appointments { get; set;}
@@ -22,5 +30,7 @@ namespace MVC_Final.Models
         public int? SpecializationId { get; set; }
         public Specialization? Specializations { get; set;}
         public List<Review>? Reviews { get; set;}
+
+       
     }
 }
