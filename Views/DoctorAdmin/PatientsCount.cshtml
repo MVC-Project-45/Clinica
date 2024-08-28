@@ -1,0 +1,24 @@
+﻿<ul class="box-info">
+    <li>
+        <i class='bx bxs-group'></i>
+        <span class="text">
+            <h3>@(ViewBag.PatientsCount ?? 0)</h3>
+            <p>No of Patients </p>
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-calendar-check'></i>
+
+        <span class="text">
+            <h3>@(ViewBag.ApointsCount ?? 0)</h3>
+            <p>No of Appointments</p>
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-dollar-circle'></i>
+        <span class="text">
+            <h3>$@(ViewBag.TotalMoney ?? 0.0)</h3>
+            <p>Total Money</p>
+        </span>
+    </li>
+</ul>

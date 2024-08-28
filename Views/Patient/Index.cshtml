@@ -1,0 +1,29 @@
+﻿@model List<Patient>
+
+
+    <!-- Your view-specific content here -->
+<section class="home section">
+<h2>Patients</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <!-- Add other columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.Name</td>
+                <td>@patient.Age</td>
+                <td>@patient.Gender</td>
+                <!-- Add other columns as needed -->
+            </tr>
+        }
+    </tbody>
+</table>
+</section>
+  

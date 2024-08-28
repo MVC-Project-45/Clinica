@@ -1,0 +1,295 @@
+﻿@model Doctor
+<html lang="ar" dir="rtl">
+<style>
+    .checked {
+        color: orange;
+    }
+
+
+    #bg{
+        height:300px;
+        width:100%;
+        background-color: #74C0FC;
+        background-attachment: fixed;
+
+    }
+    .doctor-details {
+        background-color: transparent;
+        padding: 20px;
+        border-radius: 5px;
+
+    }
+
+    .doctor-header {
+        align-items: center;
+  
+       text-align:center;
+       margin-top:-8rem;
+       margin-bottom:2rem;
+        
+    }
+
+
+    .doctor-img{
+        width:170px;
+        height:180px;
+        border-top-left-radius: 50% 50%;
+        border-top-right-radius: 50% 50%;
+        border-bottom-right-radius: 50% 50%;
+        border-bottom-left-radius: 50% 50%;
+
+    }
+    .rating {
+        color: #ffc107;
+    }
+
+    
+    #lay{      
+       
+       margin:3rem;
+       
+    }
+  
+     
+    .contact-info div {
+      
+
+        text-align:center;
+        padding:5px;
+    }
+    .no-appointments {
+        margin-top: 10px;
+        padding: 15px;
+        background-color: transparent;
+        border-radius: 5px;
+        text-align: center;
+        color: #555;
+    }
+
+    .doctor-card {
+        margin-top: 30px;
+    }
+
+ 
+    
+    .flex{
+        display:flex;
+
+    }
+
+    .comment-box {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 5px;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+
+        
+
+
+    .comment-section {
+            padding: 20px;
+            background-color: transparent;
+        }
+        .comment-section .user-img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-right: 15px;
+        }
+        .comment-section .user-img img {
+            width: 100%;
+            height: auto;
+        }
+        .comment-section .star-rating {
+            direction: ltr;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .comment-section .star-rating input[type="radio"] {
+            display: none;
+        }
+        .comment-section .star-rating label {
+            font-size: 24px;
+            color: #ddd;
+            cursor: pointer;
+        }
+
+    .comment-section textarea {
+        resize:none;
+        width:75%;
+    }
+        .comment-section .star-rating input[type="radio"]:checked ~ label {
+            color: #ffc107;
+        }
+        .comment-section .star-rating label:hover,
+        .comment-section .star-rating label:hover ~ label {
+            color: #ffc107;
+        }
+</style>
+<div id="bg">
+    <img   />
+</div>
+   
+        
+        <div class="doctor-header">
+    <img src="/image/@Model.Img" class="doctor-img" />
+            <h2>دكتور @Model.Name</h2>
+            <div id="r">
+    <partial name="_Rate" model="@Model.TotalRate/Model.Reviews.Count" />
+    </div>
+
+</div>
+
+
+
+<div class="container-fluid" >
+    <div class="row">
+        <div class="col-lg-1 col-sm-0"></div>
+        <div class="col-lg-3 col-sm-12">
+            <div class="contact-info card">
+            <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" style="text-align:center">
+            <div class=" fa-regular fa-clock" style="color: #74C0FC;"></div>
+                            <p class="text">مدة الانتظار</p>
+                            <p class="value">30 دقيقه</p>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <div class="fa-solid fa-dollar-sign" style="color: #74C0FC;"></div>
+                            <p class="text">سعر الكشف</p>
+                            <p class="value">@Model.Price جنيها</p>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                <div class="fa-solid fa-phone" style="color: #74C0FC"></div>
+                                <p class="text">الهاتف</p>
+                                <p class="value">@Model.PhoneNumber</p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="col-lg-1 col-sm-0"></div>
+        <div class="col-lg-6 col-sm-12">
+        <div class="card " style="margin-bottom:1rem">
+        <div class="card-header">
+            العنوان
+        </div>
+        <div class="card-body">
+            <h5 class="card-text">@Model.Address</h5>
+        </div>
+    </div>
+        <div class="card " style="margin-bottom:1rem">
+        <div class="card-header">
+            التخصص
+        </div>
+        <div class="card-body">
+            <h5 class="card-text">@Model.Specializations.Name</h5>
+        </div>
+    </div>
+        <div class="card">
+        <div class="card-header">
+            المؤهلات
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.Qualifications</h5>
+        </div>
+    </div>
+    </div>
+</div>
+</div>
+       @*  @if (Model.Appointments[0].IsBooked==true)
+        {
+            <div class="no-appointments">
+                No available appointments this month.
+            </div>
+        } *@
+
+<div class="container" style="margin:2.5%;">
+
+  
+    <div >
+        <h5>شاركنا بتعليقك</h5>
+
+        <hr style="width:100%" />
+        <div class="comment-section d-flex align-items-start">
+            <div class="user-img">
+                <img src="/image/user.jfif" alt="User Image">
+            </div>
+            <div class="flex-grow-1">
+                <h6>محمد طارق</h6>
+                <div class="star-rating mb-3">
+                    <input type="radio" id="5-stars" name="rating" value="5">
+                    <label for="5-stars" class="fas fa-star"></label>
+                    <input type="radio" id="4-stars" name="rating" value="4">
+                    <label for="4-stars" class="fas fa-star"></label>
+                    <input type="radio" id="3-stars" name="rating" value="3">
+                    <label for="3-stars" class="fas fa-star"></label>
+                    <input type="radio" id="2-stars" name="rating" value="2">
+                    <label for="2-stars" class="fas fa-star"></label>
+                    <input type="radio" id="1-star" name="rating" value="1">
+                    <label for="1-star" class="fas fa-star"></label>
+                </div>
+                <textarea id="UserComment" class="form-control mb-3" rows="3" cols="30" placeholder="اترك تعليقك..."></textarea>
+                <button onclick="addBtn()" class="btn btn-primary">تعليق</button>
+            </div>
+        </div>
+        <div id="d1">
+        </div>
+        <partial name="_Reviews" model="@Model.Reviews" />
+   
+</div>
+</div>
+
+        </html>
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+ @*    <script>
+        $(function () {
+            var did = @Model.Id;
+ var mydiv= document.getElementById("d");            
+            $.ajax({
+                url: "/Doctor/ShowComments?DoctorId=" + did,         
+                success: function (data) {
+                    console.log(data);
+                    mydiv.innerHTML=data;
+                }
+            });
+
+        });
+ 
+    </script>  *@
+
+    <script>
+        var radioValue;
+        $(document).ready(function () {
+            $("input[type='radio']").click(function () {
+                 radioValue = $("input[name='rating']:checked").val();
+            });
+        });
+        function addBtn() {
+            var mydiv= document.getElementById("d1");
+            var rev = 
+                { Comment: document.getElementById("UserComment").value,
+                DoctorId:@Model.Id,
+                Rate:  radioValue,
+                }
+                
+    console.log(rev)
+            $.ajax({
+                url: "/Doctor/AddComment",
+                type: "POST",
+                data: rev,
+        success: function(response) {
+
+                    mydiv.innerHTML+=response;                    
+        },
+        error: function(request, status, error) {
+            alert(request.responseText);
+        }
+    });
+        }
+    
+    </script>

@@ -1,0 +1,183 @@
+﻿@model MVC_Final.ViewModels.DoctorAdminViewModel
+@{
+    Layout = "myLay";
+}
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css">
+
+
+<!-- SIDEBAR -->
+<section id="sidebar">
+    <a href="#" class="brand">
+        <i class='bx bxs-smile'></i>
+        <span class="text">AdminHub</span>
+    </a>
+    <ul class="side-menu top">
+        <li class="active">
+            <a href="#">
+                <i class='bx bxs-dashboard'></i>
+                <span class="text">Dashboard</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/Counts?id=@Model.Doctor.Id">
+            <i class='bx bxs-shopping-bag-alt'></i>
+                <span class="text">Get Statistics</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/Schedule">
+                <i class='bx bxs-doughnut-chart'></i>
+                <span class="text">Create Schedule</span>
+            </a>
+        </li>
+        <li>
+            <a href="/DoctorAdmin/GetSchedule">
+                <i class='bx bxs-message-dots'></i>
+                <span class="text">Get Schedules</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <i class='bx bxs-group'></i>
+                <span class="text">Team</span>
+            </a>
+        </li>
+    </ul>
+    <ul class="side-menu">
+        <li>
+            <a href="#">
+                <i class='bx bxs-cog'></i>
+                <span class="text">Settings</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="logout">
+                <i class='bx bxs-log-out-circle'></i>
+                <span class="text">Logout</span>
+            </a>
+        </li>
+    </ul>
+</section>
+<!-- SIDEBAR -->
+
+<div class="head-title">
+    <div class="left">
+        <h1>Dashboard</h1>
+        <ul class="breadcrumb">
+            <li>
+                <a href="#">Dashboard</a>
+            </li>
+            <li><i class='bx bx-chevron-right'></i></li>
+            <li>
+                <a class="active" href="Home">Home</a>
+            </li>
+        </ul>
+    </div>
+    @*   <a asp-action="doctor/profile" asp-all-route-Id="@Model.Id" >
+    <span class="text">@Model.Name</span>
+    </a> *@
+</div>
+
+<ul class="box-info">
+    <li>
+        <i class='bx bxs-group'></i>
+        <span class="text">
+            <h3>@Model.PatientsCount</h3>
+            <p>No of Patients</p>
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-calendar-check'></i>
+        <span class="text">
+            <h3>@Model.AppointmentsCount</h3>
+            <p>No of Appointments</p>
+        </span>
+    </li>
+    <li>
+        <i class='bx bxs-dollar-circle'></i>
+        <span class="text">
+            <h3>$@Model.TotalMoney</h3>
+            <p>Total Money</p>
+        </span>
+    </li>
+</ul>
+
+<form asp-controller="DoctorAdmin" asp-action="GetPatientByName" method="get">
+    <div class="form-input">
+        <input type="search" name="name" placeholder="Search..." class="searchpatient">
+        <input type="hidden" name="id" value="@Model.Doctor?.Id" />
+        <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+    </div>
+</form>
+
+@if (Model.Patients != null && Model.Patients.Any())
+{
+    <table class="table table-bordered active">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>PhoneNumber</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model.Patients)
+            {
+                <tr>
+                    <td>@patient.Name</td>
+                    <td>@patient.Age</td>
+                    <td>@patient.Gender</td>
+                    <td>@patient.PhoneNumber</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No patients found.</p>
+}
+
+
+
+<style>
+.searchpatient {
+    margin-bottom: 15px;
+    width: 91%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.searchpatient:hover, .searchpatient:focus {
+    box-shadow: 0 4px 12px rgba(0, 0, 255, 0.2); 
+    border-color: #007bff; 
+}
+
+.search-btn {  
+background-color: #007bff; 
+border: none;
+border-radius: 4px;
+color: white;
+padding: 8px 12px;
+cursor: pointer;
+transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-btn:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3);
+}
+
+.search-btn i {
+    font-size: 16px;
+}
+
+</style>
+
+<script src="~/js/script.js"></script>
