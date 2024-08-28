@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 84f9ff5d8f56ef279a027ce172551f645af7c764
 ﻿@model MVC_Final.ViewModel.LoginUserViewModel
 
 @{
@@ -79,3 +83,89 @@
 
 
 
+<<<<<<< HEAD
+=======
+=======
+﻿@model MVC_Final.ViewModel.LoginUserViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+<section>
+    <div class="container mx-auto w-75 rounded shadow-lg p-3 ">
+        <h1>Login</h1>
+
+        <div class="row">
+            <div class="col-md-6">
+                <form asp-action="SaveLogin">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control " style="background-color:#E5F3F3" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" style="background-color:#E5F3F3" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Login" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6 ">
+
+                <img src="~/imges/imgs/Register.PNG" class="w-100" />
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<style>
+    /* Ensure that form elements are styled correctly */
+    .form-control {
+        background-color: #E5F3F3 !important; /* Make sure background color is applied */
+        border: 1px solid #ced4da !important; /* Apply border color */
+        box-shadow: none !important; /* Remove shadow for consistency */
+        border-radius: .25rem !important; /* Ensure consistent border-radius */
+    }
+
+    .btn-primary {
+        background-color: #007bff !important; /* Ensure primary button background color */
+        border-color: #007bff !important; /* Ensure button border color */
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3 !important; /* Ensure button hover color */
+            border-color: #004085 !important; /* Ensure button border color on hover */
+        }
+
+    .text-danger {
+        color: #dc3545 !important; /* Ensure error text color */
+    }
+
+    .container {
+        margin-top: 20px !important; /* Space above container */
+        padding: 15px !important; /* Padding inside container */
+    }
+
+    h1 {
+        font-size: 2rem !important; /* Ensure consistent font size for heading */
+    }
+
+</style>
+
+
+
+
+>>>>>>> b905b14e014d082ee4d3e4a1db7d5c994c74a9c2
+>>>>>>> 84f9ff5d8f56ef279a027ce172551f645af7c764

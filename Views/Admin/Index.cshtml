@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 84f9ff5d8f56ef279a027ce172551f645af7c764
 ﻿@* @model List<Specialization> *@
 
 @model MVC_Final.ViewModels.ListViewModel
@@ -131,3 +135,141 @@
 
 </div>
 
+<<<<<<< HEAD
+=======
+=======
+﻿@* @model List<Specialization> *@
+
+@model MVC_Final.ViewModels.ListViewModel
+
+@{
+    int count = 1;
+    int count2 = 1;
+    ViewData["Title"] = "Admin";
+}
+
+
+@* <a class="btn btn-secondary" style="padding:10px" asp-action="Create">
+     <i class="bi bi-plus-circle-dotted"></i>
+     Add New Specialization
+</a> *@
+
+
+<div class="container  w-75 rounded-2" style="background-color:#eee">
+
+
+    <div dir="rtl">
+        <a href="/admin/add" class="btn bg-primary text-white fs-3 p-2 mx-auto">إضافة تخصص جديد</a>
+    </div>
+    <form action="/Admin/SearchByName">
+        <div class="mb-3">
+            <label for="search" class="form-label">Search</label>
+            <input dir="rtl" type="text" name="search" class="form-control" id="search" placeholder="ابحث عن التخصص....">
+        </div>
+        <button type="submit" class="btn btn-primary w-100 wy-2">بحث</button>
+    </form>
+
+    <table class="table  table-striped">
+
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">التخصص</th>
+
+                <th scope="col">الصورة</th>
+                <th scope="col">التفاصيل</th>
+                <th scope="col">تعديل</th>
+                <th scope="col">مسح</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Specialization sp in Model.specializations)
+            {
+                <tr>
+                    <th scope="row">@count</th>
+                    <td>@sp.Name</td>
+
+                    <td><img src="/image/@sp.Cover" width="100px" height="100px" /></td>
+                    <td><a href="/Admin/Details/@sp.Id" class="btn btn-info">Details</a></td>
+
+                    <td><a asp-action="Update" asp-controller="Admin" asp-route-id="@sp.Id" class="btn btn-info">Update</a></td>
+
+                    <td><a asp-action="Delete" asp-controller="Admin" asp-route-id="@sp.Id" class="btn btn-danger">Delete</a></td>
+
+                </tr>
+                count++;
+            }
+
+
+        </tbody>
+    </table>
+    @* .......................................... *@
+
+    <div dir="rtl">
+        <a href="/doctor/add" class="btn fs-3  bg-primary text-white  p-2 mx-auto" style="background-color:#E5F3F3">إضافة طبيب جديد</a>
+    </div>
+    <form action="/Doctor/SearchByName">
+        <div class="mb-3">
+            <label for="search" class="form-label">Search</label>
+            <input dir="rtl" type="text" name="search" class="form-control" id="search" placeholder="ابحث عن الطبيب بالاسم....">
+        </div>
+        <button type="submit" class="btn btn-primary w-100 wy-2">بحث</button>
+    </form>
+
+    <table class="table  table-striped">
+
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">اسم الطبيب</th>
+                <th scope="col">التخصص</th>
+                <th scope="col">الصورة</th>
+                <th scope="col">التفاصيل</th>
+                <th scope="col">تعديل</th>
+                <th scope="col">مسح</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Doctor doctor in Model.doctors)
+            {
+                string spName = "";
+                if (doctor.SpecializationId == null)
+                {
+                    spName = "لا يوجد تخصص";
+                }
+                else
+                {
+                    @foreach (Specialization specialization in Model.specializations)
+                    {
+                        if (doctor.SpecializationId == specialization.Id)
+                        {
+                            spName = specialization.Name;
+                            break;
+                        }
+                    }
+                }
+                <tr>
+                    <th scope="row">@count2</th>
+                    <td>@doctor.Name</td>
+                    <td>@spName</td>
+
+                    <td><img src="/image/@doctor.Img" width="100px" height="100px" /></td>
+                    <td><a href="/Doctor/Profile/@doctor.Id" class="btn btn-info">Details</a></td>
+
+                    <td><a asp-action="Update" asp-controller="Doctor" asp-route-id="@doctor.Id" class="btn btn-info">Update</a></td>
+
+                    <td><a asp-action="DeleteDoctor" asp-controller="Admin" asp-route-id="@doctor.Id" class="btn btn-danger">Delete</a></td>
+
+                </tr>
+                count++;
+            }
+
+
+        </tbody>
+    </table>
+
+
+</div>
+
+>>>>>>> b905b14e014d082ee4d3e4a1db7d5c994c74a9c2
+>>>>>>> 84f9ff5d8f56ef279a027ce172551f645af7c764

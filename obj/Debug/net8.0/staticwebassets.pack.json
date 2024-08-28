@@ -1,0 +1,669 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_Final.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC_Final.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\home-style.css",
+      "PackagePath": "staticwebassets\\css\\home-style.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\register-style.css",
+      "PackagePath": "staticwebassets\\css\\register-style.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\sign-in-style.css",
+      "PackagePath": "staticwebassets\\css\\sign-in-style.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\1.jpeg",
+      "PackagePath": "staticwebassets\\image\\1.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\145d2c4e-11fd-4b88-8bf9-e2edbcc2efa2.png",
+      "PackagePath": "staticwebassets\\image\\145d2c4e-11fd-4b88-8bf9-e2edbcc2efa2.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\2.jpeg",
+      "PackagePath": "staticwebassets\\image\\2.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\3.jpeg",
+      "PackagePath": "staticwebassets\\image\\3.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\4.jpeg",
+      "PackagePath": "staticwebassets\\image\\4.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\image\\arrow-down.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\avatar.png",
+      "PackagePath": "staticwebassets\\image\\avatar.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\banner-image.png",
+      "PackagePath": "staticwebassets\\image\\banner-image.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\call-icon.svg",
+      "PackagePath": "staticwebassets\\image\\call-icon.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\city-hospital.svg",
+      "PackagePath": "staticwebassets\\image\\city-hospital.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\d2e50323-e25d-434c-a44f-25abf79daec1.jpeg",
+      "PackagePath": "staticwebassets\\image\\d2e50323-e25d-434c-a44f-25abf79daec1.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\e6bee309-ed41-4d50-9a1f-b5b538981646.svg",
+      "PackagePath": "staticwebassets\\image\\e6bee309-ed41-4d50-9a1f-b5b538981646.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\end.png",
+      "PackagePath": "staticwebassets\\image\\end.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\header-bg.png",
+      "PackagePath": "staticwebassets\\image\\header-bg.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\health-care-img.png",
+      "PackagePath": "staticwebassets\\image\\health-care-img.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\log.svg",
+      "PackagePath": "staticwebassets\\image\\log.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\medical-and-health-care.png",
+      "PackagePath": "staticwebassets\\image\\medical-and-health-care.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\projectLOGO.svg",
+      "PackagePath": "staticwebassets\\image\\projectLOGO.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\q.PNG",
+      "PackagePath": "staticwebassets\\image\\q.PNG"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\service-icon-3.png",
+      "PackagePath": "staticwebassets\\image\\service-icon-3.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\service-icon-4.png",
+      "PackagePath": "staticwebassets\\image\\service-icon-4.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\service-icon-5.png",
+      "PackagePath": "staticwebassets\\image\\service-icon-5.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\service-icon-6.png",
+      "PackagePath": "staticwebassets\\image\\service-icon-6.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\145d2c4e-11fd-4b88-8bf9-e2edbcc2efa2.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\145d2c4e-11fd-4b88-8bf9-e2edbcc2efa2.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\1a71f5c7-e156-4dc7-a46f-28ea4b086091.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\1a71f5c7-e156-4dc7-a46f-28ea4b086091.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\68ba114b-9198-4e3f-89c9-003de54f8985.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\68ba114b-9198-4e3f-89c9-003de54f8985.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\7bd47d87-4427-422d-a118-5b2cf68a7925.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\7bd47d87-4427-422d-a118-5b2cf68a7925.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\baf13a73-040c-447e-84b0-819534345a7e.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\baf13a73-040c-447e-84b0-819534345a7e.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\call-icon (1).png",
+      "PackagePath": "staticwebassets\\image\\specializations\\call-icon (1).png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\call-icon.svg",
+      "PackagePath": "staticwebassets\\image\\specializations\\call-icon.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\e6bee309-ed41-4d50-9a1f-b5b538981646.svg",
+      "PackagePath": "staticwebassets\\image\\specializations\\e6bee309-ed41-4d50-9a1f-b5b538981646.svg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\end.png",
+      "PackagePath": "staticwebassets\\image\\specializations\\end.png"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\specializations\\search.jpg",
+      "PackagePath": "staticwebassets\\image\\specializations\\search.jpg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\user.jfif",
+      "PackagePath": "staticwebassets\\image\\user.jfif"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\صورة واتساب بتاريخ 2024-02-01 في 15.33.48_ef985088.jpg",
+      "PackagePath": "staticwebassets\\image\\صورة واتساب بتاريخ 2024-02-01 في 15.33.48_ef985088.jpg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\image\\صورتي.jpeg",
+      "PackagePath": "staticwebassets\\image\\صورتي.jpeg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\imges\\imgs\\Register.PNG",
+      "PackagePath": "staticwebassets\\imges\\imgs\\Register.PNG"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\imges\\imgs\\docutor.jpg",
+      "PackagePath": "staticwebassets\\imges\\imgs\\docutor.jpg"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\js\\filesize-validator.js",
+      "PackagePath": "staticwebassets\\js\\filesize-validator.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "G:\\.Net Projects\\mvc_project\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC_Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC_Final.props",
+      "PackagePath": "build\\MVC_Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_Final.props",
+      "PackagePath": "buildMultiTargeting\\MVC_Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC_Final.props",
+      "PackagePath": "buildTransitive\\MVC_Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
