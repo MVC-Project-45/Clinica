@@ -1,5 +1,5 @@
 # Clinica - Online Doctor Appointment Reservation System
-### Clinica is an online reservation system designed to help patients schedule appointments with doctors efficiently. It streamlines the process of finding available doctors and booking appointments online.
+#### Clinica is an online reservation system designed to help patients schedule appointments with doctors efficiently. It streamlines the process of finding available doctors and booking appointments online.
 
 ## Features :
   - Patients can browse available doctors and schedule appointments.
